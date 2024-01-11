@@ -1,2 +1,4 @@
+#!/usr/bin/bash
+
 nasm -f elf64 hash.asm -o hash.o 
-ld hash.o -o hash
+gcc -no-pie -o hash hash.o 

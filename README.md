@@ -26,3 +26,17 @@ bash
 
 bash
 ./hash help
+
+#### Правильные ответы
+
+```
+Input: ADIOM
+Generated Hash: LNN2B2YCAAAA
+
+Input: adiomtimur
+Generated Hash: YO3FP69FFOX0
+
+Input: Richu Scented candle 1
+Generated Hash: O28AW95GODSH
+
+```
