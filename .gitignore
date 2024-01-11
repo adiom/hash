@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+src/hash
+hash
+*.o
+src/filename.asm
